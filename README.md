@@ -1,3 +1,3 @@
-# READNE
+# README
 
 File di prova
